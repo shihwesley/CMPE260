@@ -23,7 +23,14 @@ conda activate <environment-name>
 Install the packages from requirements.txt
 
 python 3.7
+
+
+
 tensorflow 1.15
+
+
+
+
 numpy
 
 ### Architectural diagram
