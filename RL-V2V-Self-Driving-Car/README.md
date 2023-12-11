@@ -22,8 +22,10 @@ conda activate <environment-name>
 
 Install the packages from requirements.txt
 
-python 3.7
-tensorflow 1.15
+-python 3.7
+-tensorflow 1.15
+-numpy
+
 ### Architectural diagram
 ![Screenshot 2023-12-10 at 6 26 13 PM](https://github.com/shihwesley/CMPE260/assets/112594201/54ab8fdf-b905-44b0-a681-860d14a3c68f)
 
@@ -50,3 +52,6 @@ https://github.com/shihwesley/CMPE260/assets/112594201/eb8b0beb-f305-47c5-a5c8-9
 
 
 Project Report : https://docs.google.com/document/d/1FWF8hmMQhUjBLOTVy9CuVcU04-b4yQs9/edit?usp=sharing&ouid=103663966554730930942&rtpof=true&sd=true
+
+
+Project Presentation : https://docs.google.com/presentation/d/1IArNKqm1qWZge2B8We6b4H3sLWL4158N/edit?usp=sharing&ouid=103663966554730930942&rtpof=true&sd=true
