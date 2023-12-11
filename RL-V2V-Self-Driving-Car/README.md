@@ -44,7 +44,7 @@ tensorboard --logdir=<location-of-the-log-directory>
 ## Demo
 
 
-https://github.com/shihwesley/CMPE260/assets/112594201/22412858-7a61-41bd-913a-86731260321c
+https://github.com/shihwesley/CMPE260/assets/112594201/eb8b0beb-f305-47c5-a5c8-97f144062859
 
 
 
