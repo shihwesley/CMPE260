@@ -39,7 +39,7 @@ In order to track the training process locally:
 
 conda activate <environment-name>
 
-tensorboard --logdir=<location-of-the-log-directory>
+tensorboard --logdir= "<location-of-the-log-directory>"
 
 ## Demo
 
