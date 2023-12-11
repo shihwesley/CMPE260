@@ -41,4 +41,11 @@ conda activate <environment-name>
 
 tensorboard --logdir=<location-of-the-log-directory>
 
+## Demo
+
+
+https://github.com/shihwesley/CMPE260/assets/112594201/22412858-7a61-41bd-913a-86731260321c
+
+
+
 Project Report : https://docs.google.com/document/d/1FWF8hmMQhUjBLOTVy9CuVcU04-b4yQs9/edit?usp=sharing&ouid=103663966554730930942&rtpof=true&sd=true
