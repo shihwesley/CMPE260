@@ -24,6 +24,9 @@ Install the packages from requirements.txt
 
 python 3.7
 tensorflow 1.15
+### Architectural diagram
+![Screenshot 2023-12-10 at 6 26 13 PM](https://github.com/shihwesley/CMPE260/assets/112594201/54ab8fdf-b905-44b0-a681-860d14a3c68f)
+
 ## Run gui.py
 
 Now, run the code via:
