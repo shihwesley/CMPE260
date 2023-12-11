@@ -24,8 +24,6 @@ Install the packages from requirements.txt
 
 python 3.7
 tensorflow 1.15
-
-
 ## Run gui.py
 
 Now, run the code via:
